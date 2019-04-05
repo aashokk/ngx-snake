@@ -60,3 +60,4 @@ Visit http://localhost:4200 and play!
 [dev-dependencies-url]: https://david-dm.org/samirhodzic/ngx-snake?type=dev
 [build-url]: https://travis-ci.org/SamirHodzic/ngx-snake
 [build-url-svg]: https://travis-ci.org/SamirHodzic/ngx-snake.svg?branch=master
+# ngx-snake
